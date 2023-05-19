@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=thatguychristiant&label=Profile%20views&color=0e75b6&style=flat" alt="thatguychristiant" />
 </span></h1>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/u-_yX1kRCloAAAAM/airplane.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🏫 **Humber College North Campus** Graduate
 
