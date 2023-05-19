@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, my name is Christian Tabarangao</h1>
-<h3 align="center">A Software Development Engineer in Test from Canada</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<h1 align="center">Welcome to my Profile 👋</h1>
+
+- 🏫 **Humber College North Campus** Graduate
+
+- 🔭 I’m currently working in the **Aerospace & Aviation** Industry
+
+- 🌎 I'm from Canada, working as a **Software Development Engineer in Test**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thatguychristiant&label=Profile%20views&color=0e75b6&style=flat" alt="thatguychristiant" />
