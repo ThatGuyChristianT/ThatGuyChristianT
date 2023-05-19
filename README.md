@@ -3,6 +3,7 @@
 </span></h1>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/u-_yX1kRCloAAAAM/airplane.gif">
+
 - 🏫 **Humber College North Campus** Graduate
 
 - 🔭 I’m currently working in the **Aerospace & Aviation** Industry
